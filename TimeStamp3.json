@@ -1,0 +1,77 @@
+{
+  "requestId": "c1e380bf-6e0c-4565-929d-4869f1744771",
+  "success": true,
+  "errors": [],
+  "meterData": {
+    "timestamp": "2017-01-11T19:18:00Z",
+    "guid": "6d2eb893-25b1-45c1-844a-238f1786f518",
+    "data": {
+      "negativeEnergyAccumulator": [
+        {
+          "variableName": "Negative Energy Accumulator",
+          "value": -56.1234,
+          "unit": "GJ",
+          "category": "Energy"
+        },
+        {
+          "variableName": "Negative Energy Accumulator",
+          "value": -62.76,
+          "unit": "GJ",
+          "category": "Energy"
+        }
+      ],
+      "positiveEnergyAccumulator": [
+        {
+          "variableName": "Positive Energy Accumulator",
+          "value": 34.56,
+          "unit": "GJ",
+          "category": "Energy"
+        },
+        {
+          "variableName": "Positive Energy Accumulator",
+          "value": 45.646,
+          "unit": "GJ",
+          "category": "Energy"
+        }
+      ],
+      "temperatureInlet": {
+        "variableName": "Temperature Inlet",
+        "value": 8.101173400878906,
+        "unit": "C",
+        "category": "Temperature"
+      },
+      "signalQuality": {
+        "variableName": "Signal Quality",
+        "value": 92,
+        "unit": "",
+        "category": "Quality"
+      },
+      "energyFlowRate": {
+        "variableName": "Energy Flow Rate",
+        "value": 7.67,
+        "unit": "kWh",
+        "category": "Energy"
+      },
+      "velocity": {
+        "variableName": "Velocity",
+        "value": 10.2,
+        "unit": "m/s",
+        "category": "Speed"
+      },
+      "flowForToday": [
+        {
+          "variableName": "Flow for Today",
+          "value": 13.456,
+          "unit": "m³",
+          "category": "Flow"
+        },
+        {
+          "variableName": "Flow for Today",
+          "value": 24.567,
+          "unit": "m³",
+          "category": "Flow"
+        }
+      ]
+    }
+  }
+}
