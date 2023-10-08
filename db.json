@@ -1,8 +1,8 @@
 {
-	"meterdata": {
-		"timestamp": [
+	"meterData": {
+		"timeStamp": [
 			{
-				"timestamp": "2017-01-11T19:12:00Z",
+				"timeStamp": "2017-01-11T19:12:00Z",
 				"guid": "5c5e8202-33d5-4eac-b874-1f1b6f2ff5a9",
 				"data": [
 					{
@@ -74,7 +74,7 @@
 				]
 			},
 			{
-				"timestamp": "2017-01-11T19:15:00Z",
+				"timeStamp": "2017-01-11T19:15:00Z",
 				"guid": "a1b3b5e2-12c1-4e67-831a-dc90f982e1e5",
 				"data": [
 					{
@@ -140,7 +140,7 @@
 				]
 			},
 			{
-				"timestamp": "2017-01-11T19:18:00Z",
+				"timeStamp": "2017-01-11T19:18:00Z",
 				"guid": "6d2eb893-25b1-45c1-844a-238f1786f518",
 				"data": [
 					{
@@ -210,15 +210,15 @@
 	"recentdata": {
 		"recentList": [
 			{
-				"timestamp": "2017-01-11T19:12:00Z",
+				"timeStamp": "2017-01-11T19:12:00Z",
 				"guid": "5c5e8202-33d5-4eac-b874-1f1b6f2ff5a9"
 			},
 			{
-				"timestamp": "2017-01-11T19:15:00Z",
+				"timeStamp": "2017-01-11T19:15:00Z",
 				"guid": "a1b3b5e2-12c1-4e67-831a-dc90f982e1e5"
 			},
 			{
-				"timestamp": "2017-01-11T19:18:00Z",
+				"timeStamp": "2017-01-11T19:18:00Z",
 				"guid": "6d2eb893-25b1-45c1-844a-238f1786f518"
 			}
 		]
